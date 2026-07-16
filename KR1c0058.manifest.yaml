@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1c0058_000.yaml, hash: 'sha256:513ab5d24de58e925077c44589ae74e4c7e29df3a5d2e70aa1f109405630f310'}
   - {seq: 1, filename: KR1c0058_001.yaml, hash: 'sha256:c400f95be9fefbb36c68debf340640898dae02ea6c2dc88d35408fab845264e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1c0058_000.markers.yaml, hash: 'sha256:b4443fa95886be09e51780597414e858b6512a01b1e7866a85d0b96cf6a61e17'}
-  - {seq: 1, role: markers, filename: assets/KR1c0058_001.markers.yaml, hash: 'sha256:8f1644e8afffa3cb43f5ee56267da5f2206799042edeeb975c9fc806ebd642ab'}
+  - {seq: 0, role: markers, filename: assets/KR1c0058_000.markers.yaml, hash: 'sha256:b14c02fb9ebcbdd916bffd784faf085469d03d9290141962d8a8c2436a4edeed'}
+  - {seq: 1, role: markers, filename: assets/KR1c0058_001.markers.yaml, hash: 'sha256:bfa8d3a934c7f539b0c42726b5af2161b6b33e2e1b5abf28e9226d1bbc4f4fdf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 詩經劄記
   type: section
   level: 1
-hash: sha256:413c7a5d69ac94e82ae58d60d4d124b6de2dff500453eddedda9c6c762f64b89
+hash: sha256:c32169481a2b03e03eb6bdec2524fdf2b8b27aded98e043bcc1e2ec32dd9e43a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
